@@ -1,0 +1,123 @@
+.manu{
+    color: black;
+    text-align: right;
+    margin-right: 5%;
+}
+#manu-bar{
+    color:black;
+    text-decoration: none;
+    font-family:'Poppins', sans-serif; 
+    padding-left: 5%;
+}
+.full-body{
+    font-family:'Poppins', sans-serif; 
+}
+#half{
+margin-top:12%;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+h1{
+    font-size: 50px;
+    
+}
+p{
+    font-size:10px;
+    text-align: justify;
+}
+
+.purple-highlight
+{
+    color:indigo;
+}
+#cvcolor{
+    background-image: url(images/Screenshot_22.png);
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    width: 30%;
+    margin-left: 0%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple);
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    width: 20%;
+    margin-left:0%;
+}
+
+.tomato-highlight{
+    color: tomato;
+    
+}
+
+.experience-area{
+    margin-top:1000px;
+   text-align: center;
+   margin-bottom: 6%;;
+    
+}
+.experience-area h1{
+    text-align: center;
+}
+.full-stack{
+    float:left;
+    width: 20%;
+    margin-left: 8%;
+    padding: 20px 20px;
+    box-shadow: 1px 1px 10px rgb(245, 243, 243);
+}
+.text{
+    font-size: 15px;;
+}
+#header1{
+    font-size: large;
+    text-align: center;
+}
+#fixed-img{
+    margin-left:20%;
+}
+
+
+.inquiry-area{
+    margin-top: 500px;
+    background-position: center;
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;  
+    background-size: 800px;
+    height: 300px;
+}
+#inquary1{
+    
+    position: relative;
+    margin-right:1200px;
+    color: rgb(245, 244, 244);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+}
+.chit-chat{
+
+    margin-left:1200px;
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 10px;
+}
+.midpoint{
+    text-align: center;
+}
